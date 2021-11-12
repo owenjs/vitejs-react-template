@@ -3,7 +3,7 @@ import logo from "./logo.svg";
 import "./App.scss";
 
 function App() {
-  const [count, setCount] = useState(0);
+  const [count, setCount] = useState(1);
 
   return (
     <div className="App">
